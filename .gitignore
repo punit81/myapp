@@ -1,1 +1,6 @@
 Maventesting/target/*
+Maventesting/target/classes/*
+Maventesting/target/maven-archiver/*
+Maventesting/target/maven-status/*
+Maventesting/target/surefire-reports/*
+Maventesting/target/test-classes/com/punit/MavenTesting/*
