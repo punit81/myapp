@@ -10,13 +10,13 @@ $> mvn compile
 $> mvn package
 $> java -cp target/Maventesting-1.0-SNAPSHOT.jar com.punit.MavenTesting.App
 
-your output will be something like this:
+Your output will be something like this:
 
 This is a program to test efficiency ofString,StringBuffer and StringBuilder Concatenation operation(i.e over 24 concatenations)
 This is the sample string for concatenation:Hello
 Time taken by String to concatenate 24 times is:1721212ms
 Time taken by StringBuffer to concatenate 24 times is:748815ms
 Time taken by StringBuilder to concatenate 24 times is:577437ms
-
+$>
 
 
